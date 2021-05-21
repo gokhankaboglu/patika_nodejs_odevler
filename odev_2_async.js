@@ -1,5 +1,5 @@
 let posts = [
-	{title: 'Post Başlık 1', detail: 'Post Detay 1'},
+	  {title: 'Post Başlık 1', detail: 'Post Detay 1'},
     {title: 'Post Başlık 2', detail: 'Post Detay 2'},
     {title: 'Post Başlık 3', detail: 'Post Detay 3'}
 ];
